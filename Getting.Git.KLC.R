@@ -1,4 +1,4 @@
-### Not Getting git workshop
+### Awesome Workshop
 
 
 
